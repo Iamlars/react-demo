@@ -1,5 +1,1 @@
-h1 {
-  padding: 10px 40px;
-  border-left: 4px solid green;
-  font-size: 36px;
-  color: #333; }
+h1{padding:10px 40px;border-left:4px solid green;font-size:36px;color:#333}.time{display:inline-block;width:50px;height:50px;background:#333;color:#fff;border-radius:5px;line-height:50px;text-align:center;box-shadow:0 0 5px #eee;transition:1s;transform:translate3d(10px,10px,0) rotate(0deg);opacity:.2}.time.show{transform:translateZ(0);opacity:1}.time.roll{color:green;opacity:.5;box-shadow:0 0 20px green}
